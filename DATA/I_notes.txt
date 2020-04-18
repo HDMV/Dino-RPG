@@ -1,0 +1,14 @@
+I_ : info
+M_ : mission / déplacement
+R_ : race (l'ordre de lvl-upping de la race)
+U_ : les compétences U 
+
+__________________________________________________________
+
+
+Tous les M commencent et finissent à l'université (Comme ça on peut les enchaîner dans n'importe quel ordre)
+
+
+*papy_joe : toutes les missions sauf "l'exploit du mois"
+*rodeur : la première mission (pour le riz)
+*shaman : toutes les missions sauf "querelles" et "commerce peu équitable"
